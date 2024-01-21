@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi! I'm Elisa. </h2>
 
 - 🔭 I’m currently living in New Zealand.
-- 🌱 I’m learning .NET Core, and ReactJs, and already mastered.
+- 🌱 I’m learning ReactJs, NextJs.
 - 😄 I'm a 7 experience developer, familiar with php, js, css, html!
 
 <!--
