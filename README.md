@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi! I'm Elisa. </h2>
 
 - 🔭 I’m currently living in New Zealand.
-- 😄 I'm a 7 experience developer, familiar with ReactJs, NextJs，php, js, css, html!
+- 😄 I'm a 7 experience developer, familiar with C#, ReactJs, NextJs，php, Ruby on Rails, js, css, html!
 
 <!--
 **elisa-lok/elisa-lok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
