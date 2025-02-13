@@ -1,7 +1,10 @@
 <h2 align="center">👋 Hi! I'm Elisa. </h2>
 
 - 🔭 I’m currently living in New Zealand.
-- 😄 I'm a 7 experience developer, familiar with various programming languages and frameworks, such as Golang, PHP, C#, ReactJs, NextJs，php, Ruby on Rails, js, css, html!
+- 😄 I'm a 7 experience developer, familiar with various programming languages and frameworks, such as Golang, PHP, C#, Python, ReactJs, NextJs, Ruby on Rails, React Native, VueJS, Angular, JavaScript, TypeScript, css, html!
+- 😄 Committed to writting robust, efficient, maintainable code, ensuring system's security and performance.
+- 🌱 Willing to learn continuously and take on new challenges
+-  🔭 Extensive experience in Material UI, Tailwind CSS and docker, AWS cloud deployment.
 
 <!--
 **elisa-lok/elisa-lok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
