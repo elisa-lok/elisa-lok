@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently living in New Zealand.
 - 😄 I'm a 7 experience developer, familiar with various programming languages and frameworks, such as Golang, PHP, C#, Python, ReactJs, NextJs, Ruby on Rails, React Native, VueJS, Angular!
-- 😄 Committed to writting robust, efficient, maintainable code, ensuring system's security and performance.
-- 🌱 Willing to learn continuously and take on new challenges.
+- 🌱 Committed to writting robust, efficient, maintainable code, ensuring system's security and performance.
+- 😄 Willing to learn continuously and take on new challenges.
 -  🔭 Extensive experience in Material UI, Tailwind CSS and docker, AWS cloud deployment.
 
 <!--
